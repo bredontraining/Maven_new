@@ -1,12 +1,12 @@
+<%@ page contentType="text/html; charset=UTF-8" language="java" %>
+<!DOCTYPE html>
 <html>
+<head>
+    <title>Welcome Page</title>
+</head>
 <body>
-<h1><font color='red'> Welcome to Ashok IT - Software Training Institute <font></h1>
-
-<a href="www.ashokit.in">Click Here To See Ashok IT Training Schedules</a>
-  
-  <h2> Call Us : +91-9985396677  </h2>
-  
-  <h3> Our Ofc Location : Ameerpet, Hyderbad </h3>
-
+    <h1>Welcome to My  Page 🚀</h1>
+    <p>This is a simple JSP page with only HTML content.</p>
 </body>
 </html>
+
